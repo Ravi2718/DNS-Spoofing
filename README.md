@@ -54,19 +54,14 @@ sudo apt-get install figlet
 git clone https://github.com/Ravi2718/DNS-Spoofing.git
 cd DNS-Spoofing
 ```
-### 5.Run
-```bash
-sudo python3 DNS_Spoofing.py
-````
 
----
 
 ## 🚀 Usage
 
 Run the script:
 
 ```bash
-python3 dns_spoofing.py
+sudo python3 DNS_Spoofing.py
 ```
 
 ### When prompted, provide:
